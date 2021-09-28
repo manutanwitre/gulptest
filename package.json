@@ -1,5 +1,9 @@
 {
   "name": "gulptest",
+  "repository": {
+    "type": "git",
+    "url": "github:manutanwitre/gulptest"
+  },
   "version": "1.0.0",
   "description": "Testscript for gulp",
   "main": "gulpfile.js",
